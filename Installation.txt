@@ -1,0 +1,9 @@
+sudo yum clean all
+sudo yum update
+sudo yum install ansible -y
+ansible --version
+clear
+
+
+
+https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
